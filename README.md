@@ -1,7 +1,9 @@
 # Sales Analytics Dashboard
 
 ## 📊 Project Overview
-Interactive Sales Analytics Dashboard built using Power BI to analyze regional sales, customer segments, category-wise performance, and monthly sales trends.
+This project presents an interactive Sales Analytics Dashboard developed using Power BI to analyze and visualize retail sales data. The dashboard provides insights into regional sales performance, customer segments, category-wise revenue distribution, and monthly sales trends. 
+
+The objective of this project is to transform raw sales data into meaningful business insights through data cleaning, visualization, and interactive reporting techniques. The dashboard enables users to identify top-performing regions and categories, understand customer purchasing behaviour, and monitor sales patterns over time.
 
 ## 🚀 Features
 - Sales by Region
@@ -23,7 +25,7 @@ Interactive Sales Analytics Dashboard built using Power BI to analyze regional s
 - Sales showed noticeable fluctuations across months
 
 ## 📌 Conclusion
-This dashboard helps analyze sales performance, customer behavior, and regional trends through interactive visualizations and business insights.
+This dashboard helps analyze sales performance, customer behaviour, and regional trends through interactive visualizations and business insights.
 
 ## 📷 Dashboard Preview
 ![Dashboard Preview](dashboard-preview.jpeg)
