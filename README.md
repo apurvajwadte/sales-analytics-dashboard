@@ -22,5 +22,8 @@ Interactive Sales Analytics Dashboard built using Power BI to analyze regional s
 - Consumer segment dominated sales contribution
 - Sales showed noticeable fluctuations across months
 
+## 📌 Conclusion
+This dashboard helps analyze sales performance, customer behavior, and regional trends through interactive visualizations and business insights.
+
 ## 📷 Dashboard Preview
 ![Dashboard Preview](dashboard-preview.jpeg)
