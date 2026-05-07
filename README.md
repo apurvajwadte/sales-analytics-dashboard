@@ -23,4 +23,4 @@ Interactive Sales Analytics Dashboard built using Power BI to analyze regional s
 - Sales showed noticeable fluctuations across months
 
 ## 📷 Dashboard Preview
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](dashboard-preview.jpeg)
